@@ -1,0 +1,18 @@
+
+.projects-section {
+    background-color: var(--bg-secondary-dark);
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.projects-empty-message {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--neutral-light-gray);
+}
