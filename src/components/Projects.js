@@ -23,8 +23,7 @@ const myPortfolioProjects = [
         description: 'Şu anda incelemekte olduğunuz, React ile fütüristik bir tasarımla geliştirilmiş kişisel portföy sitem.',
         imageUrl: '/images/img.png',
         techStack: ['React', 'JavaScript', 'CSS', 'HTML'],
-        liveUrl: '#',
-        codeUrl: '',
+        codeUrl: 'https://github.com/FahriGunduz/Fahri_Gunduz_Portfoy',
     },
     {
         id: 4,
