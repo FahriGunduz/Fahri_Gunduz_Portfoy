@@ -6,7 +6,7 @@ const myPortfolioProjects = [
     {
         id: 1,
         title: 'GameJam Oyunu - Birincilik',
-        description: 'Balıkesir Teknokent\'in düzenlediği GameJam etkinliğinde birinci olan oyun projem. Unity oyun motoru kullanılarak 48 saatlik bir süreçte geliştirildi.',
+        description: 'Balıkesir Teknokent\'in düzenlediği GameJam etkinliğinde birinci olan oyun projem. Unity oyun motoru kullanılarak 1 haftalık bir süreçte geliştirildi.',
         imageUrl: '/images/vortex-9.png',
         techStack: ['Unity', 'C#'],
     },
