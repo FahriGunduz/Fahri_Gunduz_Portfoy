@@ -1,29 +1,26 @@
-/* src/App.css */
 :root {
-  /* Logo Tabanlı Fütüristik Palet */
-  --bg-primary-dark: #1A1D24;    /* Ana Koyu Arka Plan */
-  --bg-secondary-dark: #242831;  /* Kartlar, ikincil bölümler için */
-  --text-light: #E1E3E8;          /* Koyu arka planda ana metin */
-  --text-dark-on-light-bg: #121212; /* Açık arka planda kullanılacak koyu metin (opsiyonel) */
+  --bg-primary-dark: #1A1D24;
+  --bg-secondary-dark: #242831;
+  --text-light: #E1E3E8;
+  --text-dark-on-light-bg: #121212;
 
-  --accent-blue: #00D1FF;         /* Elektrik Mavisi - Ana Vurgu */
-  --accent-blue-darker: #00A9E0;  /* Hover vb. için mavinin biraz koyusu */
-  --accent-blue-lighter-glow: rgba(0, 224, 255, 0.7); /* Mavi parıltı için daha açık ton */
-  --accent-white: #FFFFFF;         /* Beyaz Vurgu */
-  --neutral-light-gray: #B0BEC5;  /* İkincil metinler, ikonlar için soluk gri */
+  --accent-blue: #00D1FF;
+  --accent-blue-darker: #00A9E0;
+  --accent-blue-lighter-glow: rgba(0, 224, 255, 0.7);
+  --accent-white: #FFFFFF;
+  --neutral-light-gray: #B0BEC5;
 
-  --shadow-color-glow: rgba(0, 209, 255, 0.5); /* Mavi parıltı için */
+  --shadow-color-glow: rgba(0, 209, 255, 0.5);
   --border-color: var(--accent-blue);
-  --border-color-subtle: rgba(0, 209, 255, 0.3); /* Daha ince kenarlıklar için */
+  --border-color-subtle: rgba(0, 209, 255, 0.3);
 
-  /* Bileşenlere Özel Renk Atamaları */
-  --navbar-bg: rgba(26, 29, 36, 0.85); /* Biraz saydam koyu arka plan */
+  --navbar-bg: rgba(26, 29, 36, 0.85);
   --navbar-text: var(--text-light);
   --navbar-link-hover: var(--accent-blue);
   --navbar-brand-color: var(--accent-blue);
 
   --hero-bg-image: url('https://via.placeholder.com/1920x1080.png?text=Fütüristik+Arka+Plan'); /* Arka plan görseli */
-  --hero-bg-overlay: rgba(18, 18, 18, 0.7); /* Görsel üzerine koyu katman */
+  --hero-bg-overlay: rgba(18, 18, 18, 0.7);
   --hero-text-primary: var(--accent-white);
   --hero-text-secondary: var(--text-light);
   --hero-accent: var(--accent-blue);
@@ -50,12 +47,12 @@
 
   --section-separator-color: var(--border-color-subtle);
 
-  --footer-bg: var(--bg-primary-dark); /* Footer için en koyu arka plan */
+  --footer-bg: var(--bg-primary-dark);
   --footer-text: var(--neutral-light-gray);
   --footer-link-color: var(--accent-blue);
 
   --font-primary: 'Montserrat', sans-serif;
-  --font-display: 'Orbitron', sans-serif; /* Fütüristik başlıklar için */
+  --font-display: 'Orbitron', sans-serif;
 }
 
 body {
@@ -63,7 +60,7 @@ body {
   font-family: var(--font-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.7; /* Okunabilirlik için biraz artırıldı */
+  line-height: 1.7;
   background-color: var(--bg-primary-dark);
   color: var(--text-light);
 }
@@ -78,35 +75,35 @@ code {
 }
 
 section {
-  padding: 80px 20px; /* Bölüm iç boşlukları artırıldı */
-  /* Artık tek/çift arka planları yerine genel koyu tema */
+  padding: 80px 20px;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  color: var(--text-light); /* Genel başlık rengi */
-  font-family: var(--font-display); /* Başlıklar için fütüristik font */
+  color: var(--text-light);
+  font-family: var(--font-display);
   letter-spacing: 1px;
 }
 
 h1 {
-  font-size: 3.5rem; /* Örnek boyutlar, ayarlanabilir */
+  font-size: 3.5rem;
   font-weight: 700;
 }
 
-h2 { /* Bölüm başlıkları */
+h2 {
   font-size: 2.8rem;
   font-weight: 700;
   text-align: center;
   margin-bottom: 3rem;
-  color: var(--accent-blue); /* Bölüm başlıkları mavi */
+  color: var(--accent-blue);
   text-transform: uppercase;
 }
 
 h3 {
   font-size: 1.8rem;
   font-weight: 500;
-  color: var(--accent-white); /* h3 başlıklar beyaz */
+  color: var(--accent-white);
 }
 
 a {
@@ -117,22 +114,17 @@ a {
 
 a:hover {
   color: var(--link-hover-color);
-  text-decoration: none; /* Alt çizgiyi kaldırabilir veya farklı bir efekt ekleyebilirsiniz */
+  text-decoration: none;
 }
 
 html {
   scroll-behavior: smooth;
 }
 
-.App {
-  /* App div'i için özel stiller gerekirse buraya eklenebilir */
-}
-
-/* Genel Buton Stili (Opsiyonel, butonlara uygulanabilir) */
 .btn {
   display: inline-block;
   padding: 0.8rem 1.8rem;
-  border-radius: 30px; /* Yuvarlak butonlar */
+  border-radius: 30px;
   font-weight: 700;
   letter-spacing: 0.5px;
   text-transform: uppercase;

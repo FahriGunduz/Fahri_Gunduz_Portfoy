@@ -21,7 +21,7 @@ const myPortfolioProjects = [
         id: 3,
         title: 'Kişisel Portföy Websitesi',
         description: 'Şu anda incelemekte olduğunuz, React ile fütüristik bir tasarımla geliştirilmiş kişisel portföy sitem.',
-        imageUrl: '/images/logo1.png',
+        imageUrl: '/images/img.png',
         techStack: ['React', 'JavaScript', 'CSS', 'HTML'],
         liveUrl: '#',
         codeUrl: '',
@@ -49,6 +49,12 @@ const myPortfolioProjects = [
         imageUrl: '/images/yemektarifikitabı.png',
         techStack: ['Python','Qt Designer','Pyqt5','SQLite'],
         codeUrl: 'https://github.com/FahriGunduz/YemekTarifiUygulamasi.git',
+    },
+    {
+        id: 7,
+        title: 'Kendi Girişimimi Kurmak (Fikir Aşamasında)',
+        description: 'Salamander-Software isminde bir yazılım şirketi kurmak istiyorum şuan fikir aşamasında.',
+        imageUrl: '/images/logo.jpg',
     },
 ];
 

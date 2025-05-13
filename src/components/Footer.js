@@ -7,10 +7,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <img src="/images/logo.jpg" alt="Salamander Logo - Footer" className="footer-logo-img" /> {/* EKLENDİ */}
-                <div className="footer-social-links">
-                    {/* ... sosyal medya linkleri ... */}
-                </div>
+                <img src="/images/logo.jpg" alt="Salamander Logo - Footer" className="footer-logo-img" />
                 <p className="footer-copyright">&copy; {currentYear} Fahri Gündüz. Tüm hakları saklıdır.</p>
             </div>
         </footer>
