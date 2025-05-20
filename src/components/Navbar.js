@@ -26,6 +26,16 @@ function Navbar() {
                 <li className="nav-item"><a href="#projects" className="nav-link" onClick={toggleMenu}>Projelerim</a></li>
                 <li className="nav-item"><a href="#skills" className="nav-link" onClick={toggleMenu}>Yeteneklerim</a></li>
                 <li className="nav-item"><a href="#contact" className="nav-link" onClick={toggleMenu}>İletişim</a></li>
+                <li className="nav-item">
+                    <a
+                        href="/Fahri_Gunduz_CV.pdf"
+                        className="nav-link cv-download"
+                        download="Fahri Gündüz CV.pdf"
+                        onClick={toggleMenu}
+                    >
+                        CV İndir
+                    </a>
+                </li>
             </ul>
         </nav>
     );
