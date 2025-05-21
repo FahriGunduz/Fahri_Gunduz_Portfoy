@@ -13,7 +13,7 @@ const myPortfolioProjects = [
     {
         id: 2,
         title: 'Teknofest Mobil Uygulama (MİSYA Kaptanı)',
-        description: 'Balıkesir Üniversitesi MİSYA Topluluğu mobil ekibi kaptanı olarak Teknofest için geliştirmekte olduğumuz proje. (Detaylar ve sonuçlar eklenecek)',
+        description: 'Balıkesir Üniversitesi MİSYA Topluluğu mobil ekibi kaptanı olarak Teknofest için geliştirmekte olduğumuz proje.',
         imageUrl: '/images/logo.png',
         techStack: ['Flutter', 'Dart', 'Firebase'],
     },
