@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Navbar.css';
 import { Link } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 
 function Navbar() {
     const [isMenuActive, setMenuActive] = useState(false);
@@ -11,10 +12,10 @@ function Navbar() {
 
     return (
         <nav className="navbar">
-            <a href="#home" className="navbar-logo-link">
+            <HashLink smooth to="/#home" className="navbar-logo-link" onClick={toggleMenu}>
                 <img src="/images/logo.jpg" alt="Salamander Logo" className="navbar-logo-img" />
                 <span className="navbar-brand-text">Fahri Gündüz</span>
-            </a>
+            </HashLink>
 
             <div className={`navbar-toggle ${isMenuActive ? 'active' : ''}`} onClick={toggleMenu}>
                 <span className="bar"></span>
@@ -23,10 +24,11 @@ function Navbar() {
             </div>
 
             <ul className={`navbar-nav ${isMenuActive ? 'active' : ''}`}>
-                <li className="nav-item"><a href="#about" className="nav-link" onClick={toggleMenu}>Hakkımda</a></li>
-                <li className="nav-item"><a href="#projects" className="nav-link" onClick={toggleMenu}>Projelerim</a></li>
-                <li className="nav-item"><a href="#skills" className="nav-link" onClick={toggleMenu}>Yeteneklerim</a></li>
-                <li className="nav-item"><a href="#contact" className="nav-link" onClick={toggleMenu}>İletişim</a></li>
+                <li className="nav-item"><HashLink smooth to="/#home" className="nav-link" onClick={toggleMenu}>Anasayfa</HashLink></li>
+                <li className="nav-item"><HashLink smooth to="/#about" className="nav-link" onClick={toggleMenu}>Hakkımda</HashLink></li>
+                <li className="nav-item"><HashLink smooth to="/#projects" className="nav-link" onClick={toggleMenu}>Projelerim</HashLink></li>
+                <li className="nav-item"><HashLink smooth to="/#skills" className="nav-link" onClick={toggleMenu}>Yeteneklerim</HashLink></li>
+                <li className="nav-item"><HashLink smooth to="/#contact" className="nav-link" onClick={toggleMenu}>İletişim</HashLink></li>
                 <li className="nav-item">
                     <a
                         href="/Fahri_Gunduz_CV.pdf"
