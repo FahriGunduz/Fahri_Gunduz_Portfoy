@@ -1,0 +1,1434 @@
+{
+    "questions": [
+        {
+            "category": "1",
+            "question": "Neoplazi nedir?",
+            "options": [
+                "A) Normal hücre ölümü",
+                "B) Kontrolsüz hücre proliferasyonu",
+                "C) Organ büyümesi",
+                "D) Bağ dokusu kaybı",
+                "E) Lenfatik yayılım"
+            ],
+            "answer": "B",
+            "explanation": "Neoplazi, hücrelerin kontrolsüz çoğalmasıdır ve tümör oluşumunun temel mekanizmasıdır."
+        },
+        {
+            "category": "1",
+            "question": "Benign tümörler için aşağıdakilerden hangisi doğrudur?",
+            "options": [
+                "A) Çevre dokulara invazyon yapar",
+                "B) Metastaz yapar",
+                "C) Kaynaklandığı bölgede kalır",
+                "D) Kan yoluyla yayılır",
+                "E) Organ fonksiyonlarını her zaman bozar"
+            ],
+            "answer": "C",
+            "explanation": "Benign (iyi huylu) tümörler sınırlıdır, çevre dokulara yayılmaz ve metastaz yapmaz."
+        },
+        {
+            "category": "1",
+            "question": "Malign tümörlerin ayırt edici özelliği nedir?",
+            "options": [
+                "A) Sadece büyüme gösterir",
+                "B) Yayılmaz",
+                "C) Metastaz yapabilir",
+                "D) Hücre döngüsünü yavaşlatır",
+                "E) Apoptozu arttırır"
+            ],
+            "answer": "C",
+            "explanation": "Malign tümörler metastaz yapabilir, yani diğer dokulara yayılabilir."
+        },
+        {
+            "category": "1",
+            "question": "Kanser gelişiminde etkili olan genetik faktörlerden biri nedir?",
+            "options": [
+                "A) UV ışını",
+                "B) Tamir enzimleri",
+                "C) Radyasyon",
+                "D) Karsinojenler",
+                "E) Beslenme şekli"
+            ],
+            "answer": "B",
+            "explanation": "Tamir enzimlerindeki bozulmalar genetik olarak kanser riskini artırabilir."
+        },
+        {
+            "category": "1",
+            "question": "Aşağıdakilerden hangisi çevresel bir kanser risk faktörüdür?",
+            "options": [
+                "A) p53 mutasyonu",
+                "B) Proto-onkogen aktivasyonu",
+                "C) Mutajen maruziyeti",
+                "D) DNA tamir bozukluğu",
+                "E) BRCA1 mutasyonu"
+            ],
+            "answer": "C",
+            "explanation": "Mutajenler çevreden alınan ve DNA'da hasar oluşturan ajanlardır."
+        },
+        {
+            "category": "1",
+            "question": "Sigara içmek en çok hangi kanser ile ilişkilidir?",
+            "options": [
+                "A) Deri kanseri",
+                "B) Akciğer kanseri",
+                "C) Prostat kanseri",
+                "D) Meme kanseri",
+                "E) Tiroid kanseri"
+            ],
+            "answer": "B",
+            "explanation": "Sigara kullanımı akciğer kanserinin başlıca nedenlerinden biridir."
+        },
+        {
+            "category": "1",
+            "question": "Güneş ışığına uzun süre maruz kalmak en çok hangi kanserin riskini artırır?",
+            "options": [
+                "A) Karaciğer kanseri",
+                "B) Deri kanseri",
+                "C) Akciğer kanseri",
+                "D) Mide kanseri",
+                "E) Pankreas kanseri"
+            ],
+            "answer": "B",
+            "explanation": "Güneşten gelen UV ışınları deri hücrelerinde mutasyona neden olur."
+        },
+        {
+            "category": "1",
+            "question": "Aşağıdakilerden hangisi meme kanseri için bir risk faktörü değildir?",
+            "options": [
+                "A) Hormonal değişimler",
+                "B) Yaş",
+                "C) Obezite",
+                "D) Güneş ışığı maruziyeti",
+                "E) Aile öyküsü"
+            ],
+            "answer": "D",
+            "explanation": "Güneş ışığı genellikle deri kanseri ile ilişkilidir, meme kanseriyle değil."
+        },
+        {
+            "category": "1",
+            "question": "Aşağıdaki faktörlerden hangisi prostat kanseri için risk oluşturur?",
+            "options": [
+                "A) Sigara kullanımı",
+                "B) Genç yaş",
+                "C) UV maruziyeti",
+                "D) Yaş",
+                "E) Alkol kullanımı"
+            ],
+            "answer": "D",
+            "explanation": "Prostat kanseri riski yaşla birlikte artar."
+        },
+        {
+            "category": "1",
+            "question": "Onkogenler nasıl oluşur?",
+            "options": [
+                "A) Tümör baskılayıcı genlerin baskılanmasıyla",
+                "B) Proto-onkogenlerin mutasyonuyla",
+                "C) Apoptoz artışıyla",
+                "D) Histon modifikasyonlarıyla",
+                "E) DNA metilasyonu ile"
+            ],
+            "answer": "B",
+            "explanation": "Proto-onkogenler mutasyon geçirerek onkogen haline gelir ve hücre büyümesini teşvik eder."
+        },
+        {
+            "category": "1",
+            "question": "Aşağıdakilerden hangisi tümör baskılayıcı genlerden biridir?",
+            "options": [
+                "A) RAS",
+                "B) MYC",
+                "C) BRCA1",
+                "D) HER2",
+                "E) ABL"
+            ],
+            "answer": "C",
+            "explanation": "BRCA1 DNA tamiri yapan bir tümör baskılayıcı gendir."
+        },
+        {
+            "category": "1",
+            "question": "p53 geni ne işe yarar?",
+            "options": [
+                "A) Hücre proliferasyonunu arttırır",
+                "B) Onkogen olarak davranır",
+                "C) Hücre döngüsünü kontrol eder",
+                "D) DNA replikasyonunu başlatır",
+                "E) Metastazı teşvik eder"
+            ],
+            "answer": "C",
+            "explanation": "p53 DNA hasarı durumunda hücre döngüsünü durdurarak onarım sağlar veya apoptozu başlatır."
+        },
+        {
+            "category": "1",
+            "question": "Epigenetik mekanizmalardan biri aşağıdakilerden hangisidir?",
+            "options": [
+                "A) DNA mutasyonu",
+                "B) RNA translasyonu",
+                "C) DNA metilasyonu",
+                "D) Gen amplifikasyonu",
+                "E) Kromozom delesyonu"
+            ],
+            "answer": "C",
+            "explanation": "DNA metilasyonu, gen ekspresyonunu değiştiren epigenetik bir düzenleme biçimidir."
+        },
+        {
+            "category": "1",
+            "question": "Histon modifikasyonu aşağıdakilerden hangisini etkiler?",
+            "options": [
+                "A) DNA tamirini",
+                "B) RNA yapımını",
+                "C) Gen ekspresyonunu",
+                "D) Protein translokasyonunu",
+                "E) Mitokondriyal bölünmeyi"
+            ],
+            "answer": "C",
+            "explanation": "Histon modifikasyonları genlerin açılıp kapanmasını kontrol ederek ekspresyonu etkiler."
+        },
+        {
+            "category": "1",
+            "question": "Herediter kanserlerin özelliklerinden biri nedir?",
+            "options": [
+                "A) Geç yaşta ortaya çıkar",
+                "B) Otozomal dominant geçer",
+                "C) Genellikle çevresel etkilerle gelişir",
+                "D) Aile bireylerinde görülmez",
+                "E) Sadece kadınlarda olur"
+            ],
+            "answer": "B",
+            "explanation": "Herediter kanserler genetik olarak geçiş gösterir ve genellikle otozomal dominanttır."
+        },
+        {
+            "category": "1",
+            "question": "Familyal kanserin tanımı nedir?",
+            "options": [
+                "A) Kalıtsal olmayan rastgele kanser",
+                "B) Kalıtım kalıbı gösteren kanser",
+                "C) Ailede aynı tür kanserin sık görülmesi",
+                "D) Virüs kaynaklı kanser",
+                "E) Çocukluk çağı kanseri"
+            ],
+            "answer": "C",
+            "explanation": "Familyal kanserler belirli bir kalıtım şekli göstermeden, aile bireylerinde sık rastlanır."
+        },
+        {
+            "category": "1",
+            "question": "Sporadik kanserler nasıl oluşur?",
+            "options": [
+                "A) Genetik mutasyonla doğrudan",
+                "B) Kalıtsal nedenlerle",
+                "C) Çevresel ve rastlantısal faktörlerle",
+                "D) Aile öyküsüyle",
+                "E) Sadece çocuklarda görülür"
+            ],
+            "answer": "C",
+            "explanation": "Sporadik kanserler genellikle çevresel etkiler ve zamanla oluşan rastlantısal mutasyonlarla gelişir."
+        },
+        {
+            "category": "1",
+            "question": "Kanser insidansı yaşla neden artar?",
+            "options": [
+                "A) Apoptoz artar",
+                "B) DNA hasarları birikir",
+                "C) Genetik mutasyonlar azalır",
+                "D) Hücre bölünmesi durur",
+                "E) Enzimler daha etkili olur"
+            ],
+            "answer": "B",
+            "explanation": "Yaşla birlikte DNA hasarları birikir ve onarım mekanizmaları zayıflar."
+        },
+        {
+            "category": "1",
+            "question": "Onkogenler hücrede hangi işlevi etkiler?",
+            "options": [
+                "A) DNA tamirini",
+                "B) Protein sentezini",
+                "C) Hücre proliferasyonunu",
+                "D) Enerji üretimini",
+                "E) Hücre diferansiyasyonunu"
+            ],
+            "answer": "C",
+            "explanation": "Onkogenler hücre çoğalmasını teşvik ederek tümör gelişimine katkı sağlar."
+        },
+        {
+            "category": "1",
+            "question": "Proto-onkogen nedir?",
+            "options": [
+                "A) Tümörü baskılayan gen",
+                "B) DNA metilasyonu yapan protein",
+                "C) Normalde büyümeyi kontrol eden gen",
+                "D) Virüs kaynaklı gen",
+                "E) Hücreyi yok eden gen"
+            ],
+            "answer": "C",
+            "explanation": "Proto-onkogenler normalde hücre büyümesini kontrol eder, mutasyona uğradıklarında onkogene dönüşürler."
+        },
+        {
+            "category": "1",
+            "question": "Metastaz ne anlama gelir?",
+            "options": [
+                "A) Hücre ölümünün artması",
+                "B) DNA hasarının onarılması",
+                "C) Tümör hücrelerinin yayılması",
+                "D) Hücre duvarının kaybı",
+                "E) Apoptoz başlatılması"
+            ],
+            "answer": "C",
+            "explanation": "Metastaz, tümör hücrelerinin dolaşımla başka bölgelere yayılmasıdır."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapilerinin temel amacı nedir?",
+            "options": [
+                "A) Bağışıklık sistemini baskılamak",
+                "B) Genetik hastalıkların tanısını koymak",
+                "C) Hücrelere ilaç taşımak",
+                "D) Hedef hücrelerde genetik defekti düzeltmek",
+                "E) Kök hücre üretmek"
+            ],
+            "answer": "D",
+            "explanation": "Gen terapilerinde amaç, hedef hücrelere bir vektör aracılığıyla sağlıklı geni taşıyarak hastalıklı genin yerine geçmesini sağlamaktır."
+        },
+        {
+            "category": "2",
+            "question": "Aşağıdakilerden hangisi gen tedavisinde kullanılan virüs vektörlerinden biri değildir?",
+            "options": [
+                "A) Adenovirus",
+                "B) Retrovirus",
+                "C) Herpes simplex virüsü",
+                "D) Papillomavirüs",
+                "E) Adeno-associated virüs"
+            ],
+            "answer": "D",
+            "explanation": "Papillomavirüs gen terapilerde yaygın olarak kullanılmazken, diğerleri sık kullanılan vektörlerdir."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisinde kullanılan Adenoassociated virüs (AAV) hangi özelliği ile bilinir?",
+            "options": [
+                "A) DNA'ya kalıcı entegre olması",
+                "B) Bağışıklık sistemi tarafından kolayca tanınması",
+                "C) Düşük toksisite ve uzun süreli ekspresyon sağlaması",
+                "D) RNA taşıması",
+                "E) Yalnızca kan hücrelerine uygulanabilmesi"
+            ],
+            "answer": "C",
+            "explanation": "AAV'ler düşük bağışıklık tepkisi ve uzun süreli gen ekspresyonu avantajına sahiptir."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisinde 'gen susturma' stratejisi neyi amaçlar?",
+            "options": [
+                "A) Genin ekspresyonunu artırmak",
+                "B) Mutasyonları düzeltmek",
+                "C) Hatalı gen ürününün baskılanması",
+                "D) Genetik materyali silmek",
+                "E) Yeni genler eklemek"
+            ],
+            "answer": "C",
+            "explanation": "Gen susturma, zararlı veya hastalıkla ilişkili gen ürünlerinin baskılanmasını amaçlar."
+        },
+        {
+            "category": "2",
+            "question": "Aşağıdakilerden hangisi etkili bir gen terapisi için temel gerekliliklerden biri değildir?",
+            "options": [
+                "A) Hedef genin tanımlanması",
+                "B) Uygun taşıyıcı sistem",
+                "C) Genin plazmaya enjekte edilmesi",
+                "D) Ekspresyon kontrolü",
+                "E) Hedef dokuya özgüllük"
+            ],
+            "answer": "C",
+            "explanation": "Genin plazmaya doğrudan enjeksiyonu genellikle etkili değildir; uygun taşıyıcı sistem gereklidir."
+        },
+        {
+            "category": "2",
+            "question": "Antisense oligonükleotidler (ASO) ne tür bir moleküldür?",
+            "options": [
+                "A) Çift sarmallı RNA",
+                "B) Protein enzimleri",
+                "C) Tamamlayıcı kısa tek zincirli DNA/RNA",
+                "D) Plazmid DNA",
+                "E) Transpozonlar"
+            ],
+            "answer": "C",
+            "explanation": "ASO'lar, mRNA dizilerine bağlanarak gen ekspresyonunu modifiye eden kısa DNA/RNA zincirleridir."
+        },
+        {
+            "category": "2",
+            "question": "Duchenne Musküler Distrofisi hangi genin mutasyonu ile ilişkilidir?",
+            "options": [
+                "A) SMN1",
+                "B) BRCA1",
+                "C) Distrofin (Xp21.2)",
+                "D) CFTR",
+                "E) RET"
+            ],
+            "answer": "C",
+            "explanation": "DMD hastalığı, X kromozomunda yer alan distrofin genindeki mutasyonla ilişkilidir."
+        },
+        {
+            "category": "2",
+            "question": "SMA hastalığında hangi genler etkilidir?",
+            "options": [
+                "A) DMD ve BRCA1",
+                "B) SMN1 ve SMN2",
+                "C) CFTR ve RET",
+                "D) HER2 ve p53",
+                "E) APC ve RB"
+            ],
+            "answer": "B",
+            "explanation": "Spinal Musküler Atrofi, SMN1 geninde bozukluk ve SMN2 geninin işlevselliği ile ilişkilidir."
+        },
+        {
+            "category": "2",
+            "question": "CRISPR-Cas9 teknolojisi ne sağlar?",
+            "options": [
+                "A) DNA replikasyonu",
+                "B) RNA silinmesi",
+                "C) Hedefli gen düzenleme",
+                "D) Plazma protein düzeyini ölçme",
+                "E) Mitokondriyal translasyon"
+            ],
+            "answer": "C",
+            "explanation": "CRISPR-Cas9, hedeflenen bölgede kesim yaparak gen düzenlemesine olanak tanır."
+        },
+        {
+            "category": "2",
+            "question": "CRISPR-Cas9 sisteminde 'Cas9' nedir?",
+            "options": [
+                "A) Replikasyon enzimi",
+                "B) DNA polimeraz",
+                "C) Rehber RNA",
+                "D) Endonükleaz enzim",
+                "E) mRNA taşıyıcısı"
+            ],
+            "answer": "D",
+            "explanation": "Cas9, belirli DNA dizilerini kesen bir endonükleazdır."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": [
+                "A) Kalıtsal hastalıkların tedavisine yöneliktir",
+                "B) Virüsler gen taşıyıcı olarak kullanılabilir",
+                "C) DNA düzenlenmesi mümkün değildir",
+                "D) CRISPR gen düzenleme yöntemidir",
+                "E) Klinik denemelerde kullanılmaktadır"
+            ],
+            "answer": "C",
+            "explanation": "DNA düzenlemesi mümkündür; CRISPR gibi tekniklerle genetik düzeltmeler yapılabilir."
+        },
+        {
+            "category": "2",
+            "question": "Zolgensma hangi hastalık için FDA onayı almıştır?",
+            "options": [
+                "A) Duchenne Musküler Distrofi",
+                "B) Retinitis Pigmentosa",
+                "C) SMA",
+                "D) Kistik Fibrozis",
+                "E) Tay-Sachs hastalığı"
+            ],
+            "answer": "C",
+            "explanation": "Zolgensma, SMA hastaları için onaylanmış bir gen terapisidir."
+        },
+        {
+            "category": "2",
+            "question": "Luxturna hangi hastalığın tedavisinde kullanılır?",
+            "options": [
+                "A) SMA",
+                "B) Retinitis pigmentosa",
+                "C) Kistik fibrozis",
+                "D) Hemofili A",
+                "E) Alzheimer"
+            ],
+            "answer": "B",
+            "explanation": "Luxturna, kalıtsal retina hastalığı olan retinitis pigmentosa tedavisinde kullanılır."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapilerinde karşılaşılan sorunlardan biri aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Genin hücre çekirdeğine kolay ulaşması",
+                "B) Uzun ömürlü DNA'nın oluşturulması",
+                "C) Bağışıklık sisteminin yanıtı",
+                "D) Genin yüksek ekspresyonu",
+                "E) Tedavinin kalıcı olması"
+            ],
+            "answer": "C",
+            "explanation": "Viral vektörlere veya DNA'ya karşı bağışıklık tepkisi gen terapinin başarısını düşürebilir."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisinde kısa ömürlü DNA problemi neyi etkiler?",
+            "options": [
+                "A) Genetik geçişi",
+                "B) Terapinin kalıcılığını",
+                "C) Bağışıklık tepkisini azaltmayı",
+                "D) RNA stabilitesini",
+                "E) Protein sentezini"
+            ],
+            "answer": "B",
+            "explanation": "Terapötik genin kısa sürede etkisini kaybetmesi, tedavinin kalıcılığını azaltır."
+        },
+        {
+            "category": "2",
+            "question": "Retroviruslar genellikle hangi hücrelerde etkilidir?",
+            "options": [
+                "A) Bölünmeyen hücrelerde",
+                "B) Sadece sinir hücrelerinde",
+                "C) Bölünen hücrelerde",
+                "D) Kırmızı kan hücrelerinde",
+                "E) Mitokondride"
+            ],
+            "answer": "C",
+            "explanation": "Retroviruslar genetik materyali konak hücrenin DNA'sına entegre etmek için bölünen hücreleri tercih eder."
+        },
+        {
+            "category": "2",
+            "question": "Aşağıdakilerden hangisi bir genom düzenleme teknolojisidir?",
+            "options": [
+                "A) ELISA",
+                "B) CRISPR",
+                "C) PCR",
+                "D) Northern Blot",
+                "E) FISH"
+            ],
+            "answer": "B",
+            "explanation": "CRISPR, hedefli DNA düzenlemesi sağlayan bir genom düzenleme teknolojisidir."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisinde 'vektör' terimi neyi ifade eder?",
+            "options": [
+                "A) Hastalık etkeni",
+                "B) Genetik analiz cihazı",
+                "C) Geni taşıyan taşıyıcı sistem",
+                "D) Enzim inhibitörü",
+                "E) Tedavi edici ilaç"
+            ],
+            "answer": "C",
+            "explanation": "Vektörler genetik materyali hedef hücrelere ulaştırmak için kullanılır."
+        },
+        {
+            "category": "2",
+            "question": "2022 yılına kadar kaçın üzerinde gen terapisi klinik denemesi yapılmıştır?",
+            "options": [
+                "A) 500",
+                "B) 1000",
+                "C) 2000",
+                "D) 3180",
+                "E) 5000"
+            ],
+            "answer": "D",
+            "explanation": "2022 itibariyle dünya çapında 3180'den fazla klinik gen terapi denemesi yapılmıştır."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapilerinde genin hedef hücrede çalışması için en önemli gereklilik nedir?",
+            "options": [
+                "A) Genin uzun olması",
+                "B) Genin tamamen sentetik olması",
+                "C) Uygun promotör ve düzenleyici elementlerle birlikte taşınması",
+                "D) Hücreye protein verilmesi",
+                "E) Genin sadece mitokondride bulunması"
+            ],
+            "answer": "C",
+            "explanation": "Genin hücre içinde çalışabilmesi için ekspresyonunu sağlayan promotör ve düzenleyici bölgelerin doğru seçilmesi gerekir."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapisinde kullanılan en yaygın giriş sistemi nedir?",
+            "options": [
+                "A) Elektrik şoku",
+                "B) Viral vektörler",
+                "C) Lipid bazlı çözeltiler",
+                "D) Elektroporasyon",
+                "E) Mikroenjeksiyon"
+            ],
+            "answer": "B",
+            "explanation": "Gen terapilerinde en yaygın giriş sistemi, genetik materyalin hedef hücreye aktarılmasını sağlayan viral vektörlerdir."
+        },
+        {
+            "category": "2",
+            "question": "Antisense oligonükleotidler hangi RNA tipiyle etkileşir?",
+            "options": [
+                "A) tRNA",
+                "B) rRNA",
+                "C) mRNA",
+                "D) miRNA",
+                "E) snoRNA"
+            ],
+            "answer": "C",
+            "explanation": "ASO'lar pre-mRNA veya mature mRNA'ya bağlanarak genin ifadesini azaltmak ya da durdurmak için kullanılır."
+        },
+        {
+            "category": "2",
+            "question": "CRISPR-Cas9 sistemi aşağıdakilerden hangisi için kullanılmaz?",
+            "options": [
+                "A) Genetik hastalıkları düzeltme",
+                "B) DNA dizisinde hedefli mutasyon oluşturma",
+                "C) Gen silme",
+                "D) RNA replikasyonu artırma",
+                "E) Gen ekspresyonunu modifiye etme"
+            ],
+            "answer": "D",
+            "explanation": "CRISPR-Cas9 DNA'da düzenleme yapar; RNA replikasyonunu doğrudan etkilemez."
+        },
+        {
+            "category": "2",
+            "question": "Gen terapilerinde mutajenik etki riski ne zaman ortaya çıkar?",
+            "options": [
+                "A) Gen yalnızca sitoplazmaya girerse",
+                "B) Vektör genoma rastgele entegre olursa",
+                "C) Gen terapisi uygulanmazsa",
+                "D) Protein ekspresyonu yüksekse",
+                "E) RNA ekspresyonu durursa"
+            ],
+            "answer": "B",
+            "explanation": "Viral vektörlerin DNA'ya rastgele entegre olması, genin zararlı bir bölgeye yerleşmesine neden olarak mutajenik etki oluşturabilir."
+        },
+        {
+            "category": "3",
+            "question": "Kromozom analizinin avantajlarından biri aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Yalnızca dengesiz anomalileri tespit edebilme",
+                "B) Yüksek çözünürlüklü detaylı analiz",
+                "C) Tüm genomun incelenebilmesi",
+                "D) Gen düzeyinde mutasyon tespiti",
+                "E) Sadece bir kromozomu hedef alma"
+            ],
+            "answer": "C",
+            "explanation": "Kromozom analizinin en büyük avantajlarından biri, tüm genomun genel bir taramasını yapabilmesidir."
+        },
+        {
+            "category": "3",
+            "question": "Sitogenetik analizlerde düşük oranlı mozaisizmin belirlenme sınırı yaklaşık olarak nedir?",
+            "options": [
+                "A) %1-2",
+                "B) %3-5",
+                "C) %5-7",
+                "D) %10-12",
+                "E) %20-25"
+            ],
+            "answer": "D",
+            "explanation": "Klasik kromozom analizleri yaklaşık %10-12 düzeyinde mozaik yapıları tespit edebilir."
+        },
+        {
+            "category": "3",
+            "question": "Kromozom analizinin en önemli dezavantajlarından biri nedir?",
+            "options": [
+                "A) Genetik materyali çoğaltamaması",
+                "B) Yüksek çözünürlükle çalışamaması",
+                "C) Prob kullanamaması",
+                "D) RNA analizi yapamaması",
+                "E) PCR ile uyumsuz olması"
+            ],
+            "answer": "B",
+            "explanation": "Sitogenetik analiz düşük çözünürlükle (yaklaşık 5-10 Mb) çalışır, bu da küçük anomalilerin gözden kaçmasına neden olabilir."
+        },
+        {
+            "category": "3",
+            "question": "FISH tekniğinin temel prensibi nedir?",
+            "options": [
+                "A) DNA'nın dizi analizine dayanır",
+                "B) RNA'ya karşı antikor kullanımı",
+                "C) Komplementer prob ile işaretleme",
+                "D) DNA replikasyonu",
+                "E) Protein etiketleme"
+            ],
+            "answer": "C",
+            "explanation": "FISH, komplementer floresan prob ile DNA'nın belirli bölgelerinin işaretlenmesine dayanır."
+        },
+        {
+            "category": "3",
+            "question": "FISH yöntemiyle telomer yapıları hangi prob ile incelenir?",
+            "options": [
+                "A) Lokus spesifik prob",
+                "B) Sentromer probu",
+                "C) Tüm kromozom boyama probu",
+                "D) Telomerik prob",
+                "E) Ribozomal prob"
+            ],
+            "answer": "D",
+            "explanation": "Telomerik problar kromozomların uç bölgelerini hedef alarak inceler."
+        },
+        {
+            "category": "3",
+            "question": "CGH tekniği özellikle neyi analiz etmek için kullanılır?",
+            "options": [
+                "A) RNA translasyonunu",
+                "B) Gen ekspresyon seviyelerini",
+                "C) Genomdaki dengesiz materyali",
+                "D) Protein yapısını",
+                "E) Nükleotid dizisini"
+            ],
+            "answer": "C",
+            "explanation": "CGH, genomda kayıp ya da kazanç gibi dengesiz kromozomal değişikliklerin belirlenmesi için kullanılır."
+        },
+        {
+            "category": "3",
+            "question": "Mikroarray teknolojisinin kullanım alanı aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Hücre kültürü",
+                "B) Gen ekspresyon analizi",
+                "C) Sitoplazma boyama",
+                "D) Antikor üretimi",
+                "E) Mikroskopik yapı analizi"
+            ],
+            "answer": "B",
+            "explanation": "Mikroarray yöntemi genellikle gen ekspresyon düzeylerini ve mutasyonları tespit etmek için kullanılır."
+        },
+        {
+            "category": "3",
+            "question": "PCR tekniği ile ilgili doğru ifade hangisidir?",
+            "options": [
+                "A) RNA çoğaltma yöntemidir",
+                "B) Sadece canlı hücrede yapılır",
+                "C) DNA çoğaltımı yapar",
+                "D) Protein sentezi sağlar",
+                "E) Epigenetik düzenlemeyi izler"
+            ],
+            "answer": "C",
+            "explanation": "PCR (Polimeraz Zincir Reaksiyonu) yöntemi ile tüp içinde DNA milyarlarca kat çoğaltılabilir."
+        },
+        {
+            "category": "3",
+            "question": "Real-Time PCR ile ne izlenebilir?",
+            "options": [
+                "A) RNA translasyonu",
+                "B) DNA replikasyonu süresi",
+                "C) Amplifikasyon ürünü miktarı",
+                "D) Protein düzeyi",
+                "E) Mikrotübül hareketi"
+            ],
+            "answer": "C",
+            "explanation": "Real-Time PCR, amplifikasyon ürünü miktarını floresan sinyalle izleyerek anlık ölçüm sağlar."
+        },
+        {
+            "category": "3",
+            "question": "RFLP yöntemi ile ne analiz edilir?",
+            "options": [
+                "A) RNA metilasyonu",
+                "B) Enzimatik protein yıkımı",
+                "C) DNA'daki polimorfizmler",
+                "D) Gen ekspresyonu",
+                "E) Kromozom kaybı"
+            ],
+            "answer": "C",
+            "explanation": "RFLP, DNA dizisinde kesim enzimlerine karşı oluşan varyasyonları yani polimorfizmleri analiz eder."
+        },
+        {
+            "category": "3",
+            "question": "Klasik dizileme yöntemi (Sanger) hangi kimyasal yapıları kullanır?",
+            "options": [
+                "A) Ribozomlar",
+                "B) Dideoksinükleotidler",
+                "C) Histon proteinleri",
+                "D) Restriksiyon enzimleri",
+                "E) RNA polimeraz"
+            ],
+            "answer": "B",
+            "explanation": "Sanger dizilemesi, DNA sentezini durduran dideoksinükleotidleri kullanarak dizileme yapar."
+        },
+        {
+            "category": "3",
+            "question": "Yeni nesil dizileme (NGS) teknolojisinin en büyük avantajı nedir?",
+            "options": [
+                "A) Sadece tek gen analiz edebilmesi",
+                "B) Düşük verimlilik",
+                "C) Yüksek kapasiteli ve paralel DNA okuma",
+                "D) PCR kullanmaması",
+                "E) Uzun zaman alması"
+            ],
+            "answer": "C",
+            "explanation": "NGS teknolojisi aynı anda milyonlarca DNA dizisini okuyabilir; bu da yüksek kapasiteli analiz sağlar."
+        },
+        {
+            "category": "3",
+            "question": "Moleküler sitogenetikte FISH tekniği ile aşağıdakilerden hangisi incelenemez?",
+            "options": [
+                "A) Kromozom deleteleri",
+                "B) Gen duplikasyonları",
+                "C) Gen ekspresyon seviyesi",
+                "D) Sentromer lokalizasyonu",
+                "E) Telomerik bölgeler"
+            ],
+            "answer": "C",
+            "explanation": "FISH genetik materyali görselleştirir ama gen ekspresyon seviyelerini ölçemez."
+        },
+        {
+            "category": "3",
+            "question": "Mikroarray teknolojisinde kullanılan çipler neyi analiz eder?",
+            "options": [
+                "A) Sadece protein dizilerini",
+                "B) Genomun yapısal bütünlüğünü",
+                "C) Genetik varyantları ve gen ekspresyonlarını",
+                "D) Ribozomal RNA'nın translasyonunu",
+                "E) Histon protein modifikasyonlarını"
+            ],
+            "answer": "C",
+            "explanation": "Mikroarray çipleri, DNA ve RNA dizilerinin bağlanma örüntülerine göre genetik varyasyonları ve gen ekspresyon düzeylerini analiz eder."
+        },
+        {
+            "category": "3",
+            "question": "FISH analizinde kullanılan 'lokus spesifik problar' ne için kullanılır?",
+            "options": [
+                "A) Telomer yapısını analiz etmek için",
+                "B) Tüm kromozomu boyamak için",
+                "C) Belirli gen bölgesini tanımlamak için",
+                "D) RNA ekspresyonunu ölçmek için",
+                "E) Mikrotübül analizi için"
+            ],
+            "answer": "C",
+            "explanation": "Lokus spesifik problar, spesifik gen bölgelerini (lokasyonları) hedef alarak delesyon/duplikasyon tespiti sağlar."
+        },
+        {
+            "category": "3",
+            "question": "CGH analizi aşağıdakilerden hangisini sağlayamaz?",
+            "options": [
+                "A) Gen amplifikasyonu tespiti",
+                "B) Kromozomal kayıpların tespiti",
+                "C) Gen ekspresyon analizi",
+                "D) Dengesiz materyal analizi",
+                "E) Tümör genomunda değişikliklerin belirlenmesi"
+            ],
+            "answer": "C",
+            "explanation": "CGH gen ekspresyonunu ölçmez, kromozomal kazanç ve kayıpları tespit eder."
+        },
+        {
+            "category": "3",
+            "question": "Yeni nesil dizilemenin klasik dizilemeden farkı nedir?",
+            "options": [
+                "A) PCR kullanması",
+                "B) Daha yavaş olması",
+                "C) Tek dizi yerine çok sayıda diziyi aynı anda okuması",
+                "D) Yalnızca RNA analiz edebilmesi",
+                "E) Floresan boyama kullanmaması"
+            ],
+            "answer": "C",
+            "explanation": "Yeni nesil dizileme (NGS), milyonlarca diziyi eş zamanlı analiz etme kapasitesine sahiptir."
+        },
+        {
+            "category": "3",
+            "question": "PCR'ın çalışma mekanizması aşağıdakilerden hangisine dayanır?",
+            "options": [
+                "A) Protein sentezi",
+                "B) DNA'nın fiziksel kesilmesi",
+                "C) DNA'nın in vitro çoğaltılması",
+                "D) RNA translasyonu",
+                "E) DNA dizilemesi"
+            ],
+            "answer": "C",
+            "explanation": "PCR, tüp içinde enzimler aracılığıyla belirli DNA dizilerinin çoğaltılmasını sağlar."
+        },
+        {
+            "category": "3",
+            "question": "CGH teknolojisinde kullanılan DNA örnekleri nasıl işaretlenir?",
+            "options": [
+                "A) Radyasyonla",
+                "B) Enzimlerle",
+                "C) Farklı floresan boyalarla",
+                "D) Katalizörlerle",
+                "E) Antikorlarla"
+            ],
+            "answer": "C",
+            "explanation": "CGH'de test ve kontrol DNA'ları farklı floresan boyalarla işaretlenerek aynı hedefe hibridize edilir."
+        },
+        {
+            "category": "3",
+            "question": "Real-Time PCR ile hangi parametre doğrudan izlenebilir?",
+            "options": [
+                "A) DNA dizisi",
+                "B) Gen mutasyonu",
+                "C) Amplifikasyon ürünü miktarı",
+                "D) Protein sentezi",
+                "E) Kromozom yapısı"
+            ],
+            "answer": "C",
+            "explanation": "Real-Time PCR, floresan sinyal kullanarak ürün miktarını canlı olarak ölçer."
+        },
+        {
+            "category": "3",
+            "question": "FISH yönteminde floresan boya ile işaretlenen DNA neye bağlanır?",
+            "options": [
+                "A) RNA'ya",
+                "B) Protein yapıya",
+                "C) Hedef DNA sekansına",
+                "D) Lipid zarına",
+                "E) Antikora"
+            ],
+            "answer": "C",
+            "explanation": "FISH'te floresanla işaretli DNA probları, hedef DNA dizisine komplementer şekilde bağlanır."
+        },
+        {
+            "category": "3",
+            "question": "NGS teknolojisinde hangi özellik ön plandadır?",
+            "options": [
+                "A) Tekli analiz",
+                "B) Rastgele mutasyon üretimi",
+                "C) Yüksek doğrulukla paralel okuma",
+                "D) Düşük hassasiyet",
+                "E) RNA'ya özgülük"
+            ],
+            "answer": "C",
+            "explanation": "Yeni nesil dizileme teknolojisi, paralel ve yüksek doğrulukla çok sayıda DNA'yı aynı anda dizileyebilir."
+        },
+        {
+            "category": "3",
+            "question": "Sitogenetikte kullanılan sentromer spesifik problar neyi hedefler?",
+            "options": [
+                "A) Telomerler",
+                "B) Ribozomlar",
+                "C) Sentromer bölgesi",
+                "D) Sitoplazmik RNA",
+                "E) Mitokondri DNA"
+            ],
+            "answer": "C",
+            "explanation": "Sentromer spesifik problar, kromozomun ortasında yer alan sentromer bölgesini hedefler."
+        },
+        {
+            "category": "3",
+            "question": "RFLP analizinin temeli nedir?",
+            "options": [
+                "A) DNA'nın dizilenmesi",
+                "B) DNA kesim enzimleriyle varyasyon tespiti",
+                "C) RNA translasyonu",
+                "D) Histon modifikasyonu",
+                "E) PCR çoğaltımı"
+            ],
+            "answer": "B",
+            "explanation": "RFLP, DNA'daki kesim bölgelerinin varyasyonlarını analiz ederek genetik farklılıkları belirler."
+        },
+        {
+            "category": "4",
+            "question": "Hipodonti hangi durum için kullanılır?",
+            "options": [
+                "A) Tüm dişlerin olmaması",
+                "B) Fazla sayıda dişin bulunması",
+                "C) Bir veya birkaç dişin eksikliği",
+                "D) Diş minesinde sararma",
+                "E) Dişlerin erken sürmesi"
+            ],
+            "answer": "C",
+            "explanation": "Hipodonti bir veya birkaç dişin gelişimsel olarak eksikliği durumudur."
+        },
+        {
+            "category": "4",
+            "question": "Aşağıdaki anomalilerden hangisi oluşum zamanına göre sınıflandırılır?",
+            "options": [
+                "A) Boyut-şekil anomalileri",
+                "B) Histolojik farklılaşma anomalileri",
+                "C) Hipodonti",
+                "D) Amelogenesis Imperfecta",
+                "E) Dentinogenesis Imperfecta"
+            ],
+            "answer": "C",
+            "explanation": "Hipodonti, diş oluşum zamanına göre sınıflanan bir anomalidir."
+        },
+        {
+            "category": "4",
+            "question": "PAX9 ve MSX1 gen mutasyonları en çok hangi duruma neden olur?",
+            "options": [
+                "A) Hiperdonti",
+                "B) Dişlerin renk değişimi",
+                "C) Hipodonti",
+                "D) Maloklüzyon",
+                "E) Makroglossi"
+            ],
+            "answer": "C",
+            "explanation": "PAX9 ve MSX1 genlerindeki mutasyonlar hipodonti ile ilişkilidir."
+        },
+        {
+            "category": "4",
+            "question": "Aşağıdaki sendromlardan hangisinde hiperdonti görülür?",
+            "options": [
+                "A) Seckel Sendromu",
+                "B) Ektodermal Displazi",
+                "C) Crouzon Sendromu",
+                "D) Incontinentia Pigmenti",
+                "E) Maían Sendromu"
+            ],
+            "answer": "C",
+            "explanation": "Crouzon Sendromu'nda diş sayısında artış (hiperdonti) görülebilir."
+        },
+        {
+            "category": "4",
+            "question": "Aşağıdakilerden hangisi Amelogenesis Imperfecta alt tipi değildir?",
+            "options": [
+                "A) Hipoplastik Tip",
+                "B) Hipokalsifik Tip",
+                "C) Hipomatür Tip",
+                "D) Hipoplastik-Hipomatür Tip",
+                "E) Oligodontik Tip"
+            ],
+            "answer": "E",
+            "explanation": "Oligodonti diş eksikliği ile ilgilidir, AI alt tipi değildir."
+        },
+        {
+            "category": "4",
+            "question": "Dentinogenesis Imperfecta Tip 1 aşağıdakilerden hangisi ile birlikte görülür?",
+            "options": [
+                "A) Trizomi 21",
+                "B) Osteogenesis Imperfecta",
+                "C) Gardner Sendromu",
+                "D) Cleft Lip",
+                "E) Hipoplastik Anemi"
+            ],
+            "answer": "B",
+            "explanation": "DI Tip 1, Osteogenesis Imperfecta ile birlikte görülen formdur."
+        },
+        {
+            "category": "4",
+            "question": "Aşağıdaki sendromlardan hangisinde hipodonti görülmez?",
+            "options": [
+                "A) Akondroplazi",
+                "B) Ektodermal Displazi",
+                "C) Gardner Sendromu",
+                "D) Seckel Sendromu",
+                "E) Incontinentia Pigmenti"
+            ],
+            "answer": "C",
+            "explanation": "Gardner Sendromu hiperdonti ile ilişkilidir, hipodontiyle değil."
+        },
+        {
+            "category": "4",
+            "question": "Dişlerin fazla sayıda olması hangi terimle ifade edilir?",
+            "options": [
+                "A) Hipodonti",
+                "B) Oligodonti",
+                "C) Anodonti",
+                "D) Hiperdonti",
+                "E) Mikroglossi"
+            ],
+            "answer": "D",
+            "explanation": "Hiperdonti, fazla sayıda dişin bulunması durumudur."
+        },
+        {
+            "category": "4",
+            "question": "Trizomi 21 ile ilişkili aşağıdaki oral bulgulardan hangisi yanlıştır?",
+            "options": [
+                "A) Makroglossi",
+                "B) Mikrodonti",
+                "C) Maloklüzyon",
+                "D) Hiperdonti",
+                "E) Diş eksikliği"
+            ],
+            "answer": "D",
+            "explanation": "Trizomi 21 hiperdonti ile değil, hipodonti ve mikrodonti ile ilişkilidir."
+        },
+        {
+            "category": "4",
+            "question": "Histolojik farklılaşma anomalilerine örnek aşağıdakilerden hangisidir?",
+            "options": [
+                "A) Hipodonti",
+                "B) Supernumerer dişler",
+                "C) Amelogenesis Imperfecta",
+                "D) Mikrodonti",
+                "E) Hiperdonti"
+            ],
+            "answer": "C",
+            "explanation": "AI mine gelişimindeki histolojik farklılıklardan kaynaklanır."
+        },
+        {
+            "category": "4",
+            "question": "Dişlerin oluşumunu etkileyen epitel-mezenşim etkileşimi hangi düzeyde etkilenir?",
+            "options": [
+                "A) Beslenme düzeyi",
+                "B) Transkripsiyon faktörleri",
+                "C) Tükürük bileşimi",
+                "D) Diş sürme zamanı",
+                "E) Hormonal dengesizlik"
+            ],
+            "answer": "B",
+            "explanation": "Epitel-mezenşim etkileşimi transkripsiyon faktörleriyle düzenlenir."
+        },
+        {
+            "category": "4",
+            "question": "Dentinogenesis Imperfecta Tip 3'te görülen belirgin özellik nedir?",
+            "options": [
+                "A) Diş sayısında artış",
+                "B) Aşırı pulpal ekspozür",
+                "C) Sadece mine etkilenmesi",
+                "D) Dişlerde gecikmiş sürme",
+                "E) Süt dişlerinin erken kaybı"
+            ],
+            "answer": "B",
+            "explanation": "Tip 3 DI'de geniş pulpalar ve fazla pulpal ekspozür tipiktir."
+        },
+        {
+            "category": "4",
+            "question": "Ektodermal Displazi'de en sık görülen dişsel anomali nedir?",
+            "options": [
+                "A) Hiperdonti",
+                "B) Oligodonti",
+                "C) Diş renklenmesi",
+                "D) Diş çürüğü",
+                "E) Diş şekil bozukluğu"
+            ],
+            "answer": "B",
+            "explanation": "Ektodermal Displazilerde yaygın olarak 6'dan fazla diş eksikliği (oligodonti) görülür."
+        },
+        {
+            "category": "4",
+            "question": "Supernumerer dişler hangi sınıflamaya girer?",
+            "options": [
+                "A) Boyut-şekil anomalileri",
+                "B) Histolojik anomaliler",
+                "C) Oluşum zamanına göre anomaliler",
+                "D) Dentin anomalileri",
+                "E) Mine yapısı anomalileri"
+            ],
+            "answer": "C",
+            "explanation": "Supernumerer dişler, dişlerin oluşum zamanına göre sınıflanır."
+        },
+        {
+            "category": "4",
+            "question": "Cleidocranial Displazi ile ilgili olarak doğru olan nedir?",
+            "options": [
+                "A) Hipodonti yapar",
+                "B) Amelogenesis Imperfecta ile ilişkilidir",
+                "C) Dişlerin geç sürmesi ve fazla sayıda diş olması",
+                "D) Dişlerin erken kaybına neden olur",
+                "E) Diş renk değişimi ile karakterizedir"
+            ],
+            "answer": "C",
+            "explanation": "Cleidocranial Displazi hiperdonti ve geç diş sürmesi ile karakterizedir."
+        },
+        {
+            "category": "4",
+            "question": "Amelogenesis Imperfecta'da hangi doku etkilenir?",
+            "options": [
+                "A) Dentin",
+                "B) Pulpa",
+                "C) Çimento",
+                "D) Mine",
+                "E) Periodonsiyum"
+            ],
+            "answer": "D",
+            "explanation": "Amelogenesis Imperfecta, diş minesinin gelişimsel bozukluğudur."
+        },
+        {
+            "category": "4",
+            "question": "Seckel Sendromu'na eşlik eden ağız içi bulgu nedir?",
+            "options": [
+                "A) Hiperdonti",
+                "B) Diş eti hipertrofisi",
+                "C) Hipodonti",
+                "D) Mine hipokalsifikasyonu",
+                "E) Çene eklem ankilozu"
+            ],
+            "answer": "C",
+            "explanation": "Seckel Sendromu'nda diş eksiklikleri yani hipodonti görülebilir."
+        },
+        {
+            "category": "4",
+            "question": "Gardner Sendromu ile ilişkili dişsel özellik nedir?",
+            "options": [
+                "A) Mine hipoplazisi",
+                "B) Hipodonti",
+                "C) Supernumerer dişler",
+                "D) Erken diş sürmesi",
+                "E) Renk değişimi"
+            ],
+            "answer": "C",
+            "explanation": "Gardner Sendromu'nda süpernümerer dişler sık görülür."
+        },
+        {
+            "category": "4",
+            "question": "Orta yüz gelişiminde gerilik en sık hangi kromozomal bozuklukta görülür?",
+            "options": [
+                "A) Trizomi 21",
+                "B) Trizomi 13",
+                "C) Turner Sendromu",
+                "D) Klinefelter Sendromu",
+                "E) Williams Sendromu"
+            ],
+            "answer": "A",
+            "explanation": "Down Sendromu (Trizomi 21)'da orta yüz gelişiminde gerilik yaygındır."
+        },
+        {
+            "category": "4",
+            "question": "Aşağıdaki hastalıklardan hangisi oral mukozada büllerle karakterizedir?",
+            "options": [
+                "A) Epidermolizis Bülloza",
+                "B) Maían Sendromu",
+                "C) Akondroplazi",
+                "D) Gardner Sendromu",
+                "E) Crouzon Sendromu"
+            ],
+            "answer": "A",
+            "explanation": "Epidermolizis Bülloza'da mukoza ve deride bül oluşumu görülür."
+        },
+        {
+            "category": "4",
+            "question": "Beyaz süngerimsi nevüs hangi dokuya aittir?",
+            "options": [
+                "A) Dentin",
+                "B) Pulpa",
+                "C) Mine",
+                "D) Epitel",
+                "E) Çimento"
+            ],
+            "answer": "D",
+            "explanation": "Beyaz süngerimsi nevüs epitel kaynaklı kalıtsal bir hastalıktır."
+        },
+        {
+            "category": "4",
+            "question": "Foliküler Keratoz'un ayırıcı özelliği nedir?",
+            "options": [
+                "A) Süpernümerer diş",
+                "B) Papüler lezyonlar",
+                "C) Dişlerde eksiklik",
+                "D) Hipokalsifik mine",
+                "E) Mikrodonti"
+            ],
+            "answer": "B",
+            "explanation": "Foliküler Keratoz'da deride ve ağız çevresinde papüler lezyonlar tipiktir."
+        },
+        {
+            "category": "5",
+            "question": "Karyotip analizi en uygun hücre evresi aşağıdakilerden hangisidir?",
+            "options": [
+                "A) İnterfaz",
+                "B) Profaz",
+                "C) Metafaz",
+                "D) Anafaz",
+                "E) Telofaz"
+            ],
+            "answer": "C",
+            "explanation": "Karyotip analizi için kromozomların en belirgin olduğu metafaz evresi tercih edilir."
+        },
+        {
+            "category": "5",
+            "question": "Karyotip analizinde sıklıkla kullanılan periferik kan hücrelerinin çoğaltılması için hangi madde kültür ortamına eklenir?",
+            "options": [
+                "A) Kolsemid",
+                "B) Aminoasit",
+                "C) Fetal calf serumu",
+                "D) Fitohemaglutinin",
+                "E) Gentamisin"
+            ],
+            "answer": "D",
+            "explanation": "Fitohemaglutinin (PHA), lenfositleri mitoz bölünmeye teşvik eder."
+        },
+        {
+            "category": "5",
+            "question": "Kolsemid'in karyotip analizindeki rolü nedir?",
+            "options": [
+                "A) Kültürü steril tutar",
+                "B) Mitozu hızlandırır",
+                "C) İğ ipliklerinin oluşumunu engeller",
+                "D) Kromozom boyasını kolaylaştırır",
+                "E) DNA dizilimini sağlar"
+            ],
+            "answer": "C",
+            "explanation": "Kolsemid, hücreleri metafazda durdurmak için mikrotübül oluşumunu engeller."
+        },
+        {
+            "category": "5",
+            "question": "Aşağıdakilerden hangisi sitogenetik analiz için kullanılabilecek örneklerden biri değildir?",
+            "options": [
+                "A) Amniyotik sıvı",
+                "B) Periferik kan",
+                "C) İdrar",
+                "D) Kemik iliği",
+                "E) Koryon villus"
+            ],
+            "answer": "C",
+            "explanation": "İdrar, hücre kültürü için uygun bir kaynak değildir."
+        },
+        {
+            "category": "5",
+            "question": "Aşağıdakilerden hangisi G-bantlamada boyanan yapıdır?",
+            "options": [
+                "A) DNA nükleotid zinciri",
+                "B) Protein çekirdekleri",
+                "C) Kromozomlardaki heterokromatin bölgeler",
+                "D) Sitoplazma enzimleri",
+                "E) RNA zincirleri"
+            ],
+            "answer": "C",
+            "explanation": "G-bantlama ile kromozomlardaki heterokromatin bölgeleri daha koyu boyanır."
+        },
+        {
+            "category": "5",
+            "question": "Kültür ortamında yer alan fetal calf serumunun amacı nedir?",
+            "options": [
+                "A) pH düzenlemek",
+                "B) Hücreleri sabitlemek",
+                "C) Hücre büyümesini desteklemek",
+                "D) Hücreleri boyamak",
+                "E) DNA izolasyonu yapmak"
+            ],
+            "answer": "C",
+            "explanation": "Fetal calf serumu hücre çoğalmasını destekleyen büyüme faktörleri içerir."
+        },
+        {
+            "category": "5",
+            "question": "FISH tekniği ile aşağıdakilerden hangisi saptanabilir?",
+            "options": [
+                "A) Histon metilasyonu",
+                "B) DNA replikasyon hızı",
+                "C) Spesifik DNA dizilerinin varlığı",
+                "D) RNA translasyonu",
+                "E) Protein ekspresyon düzeyi"
+            ],
+            "answer": "C",
+            "explanation": "FISH ile belirli DNA bölgelerinin varlığı/yokluğu floresan problar kullanılarak tespit edilir."
+        },
+        {
+            "category": "5",
+            "question": "Array CGH tekniği hangi anomalileri tespit etmek için kullanılır?",
+            "options": [
+                "A) Baz değişimi",
+                "B) Gen ekspresyonu",
+                "C) Mikrodelesyon ve mikroduplikasyon",
+                "D) Metilasyon değişikliği",
+                "E) Histon modifikasyonu"
+            ],
+            "answer": "C",
+            "explanation": "Array CGH (karşılaştırmalı genomik hibridizasyon), genomdaki kopya sayısı değişimlerini belirler."
+        },
+        {
+            "category": "5",
+            "question": "Karyotip analizinde kullanılan klasik boyama yöntemlerinden biri değildir:",
+            "options": [
+                "A) G bantlama",
+                "B) Q bantlama",
+                "C) R bantlama",
+                "D) NOR bantlama",
+                "E) PAS boyama"
+            ],
+            "answer": "E",
+            "explanation": "PAS boyama, glikojen ve mukopolisakkaritleri boyamak için kullanılır, karyotip analizine özel değildir."
+        },
+        {
+            "category": "5",
+            "question": "Prader-Willi ve Angelman sendromları hangi kromozom bölgesinde bozulmalar sonucu oluşur?",
+            "options": [
+                "A) 21q22",
+                "B) 18p11",
+                "C) 15q11-q13",
+                "D) Xp21",
+                "E) 13q14"
+            ],
+            "answer": "C",
+            "explanation": "Prader-Willi ve Angelman sendromları 15q11-q13 bölgesindeki genetik değişikliklerle ilişkilidir."
+        },
+        {
+            "category": "5",
+            "question": "Turner Sendromu hangi kromozomal anomali ile ilişkilidir?",
+            "options": [
+                "A) Trizomi 18",
+                "B) Monozomi X",
+                "C) Trizomi 13",
+                "D) Klinefelter Sendromu",
+                "E) Triploidi"
+            ],
+            "answer": "B",
+            "explanation": "Turner Sendromu 45,X karyotipiyle tanımlanan monozomi X'tir."
+        },
+        {
+            "category": "5",
+            "question": "Kültürleme aşamasında antibiyotik eklenmesinin temel amacı nedir?",
+            "options": [
+                "A) Boyamayı kolaylaştırmak",
+                "B) Hücreleri beslemek",
+                "C) Kontaminasyonu önlemek",
+                "D) DNA izolasyonu yapmak",
+                "E) Sitokinezi durdurmak"
+            ],
+            "answer": "C",
+            "explanation": "Kültür ortamında antibiyotikler, bakteri veya mantar kontaminasyonunu önlemek için eklenir."
+        },
+        {
+            "category": "5",
+            "question": "Sitogenetik analiz öncesi numune aşağıdakilerden hangisi ile temas etmemelidir?",
+            "options": [
+                "A) Serum",
+                "B) Formaldehit",
+                "C) Fizyolojik tuz",
+                "D) Antibiyotik",
+                "E) Saf su"
+            ],
+            "answer": "B",
+            "explanation": "Formaldehit hücreleri tespit eder ve bölünmelerini engeller; bu da karyotip analizini bozar."
+        },
+        {
+            "category": "5",
+            "question": "Konvansiyonel karyotipleme ile ilgili olarak hangisi doğrudur?",
+            "options": [
+                "A) RNA analizi sağlar",
+                "B) Protein dizilerini gösterir",
+                "C) Floresan mikroskopla yapılır",
+                "D) Işık mikroskopisi ile yapılır",
+                "E) Gen ekspresyon düzeyini ölçer"
+            ],
+            "answer": "D",
+            "explanation": "Konvansiyonel karyotipleme, boyanmış kromozomların ışık mikroskobunda incelenmesiyle yapılır."
+        },
+        {
+            "category": "5",
+            "question": "Mozaiklik oranının saptanmasında en etkili teknik aşağıdakilerden hangisidir?",
+            "options": [
+                "A) RT-PCR",
+                "B) FISH",
+                "C) Western blot",
+                "D) Northern blot",
+                "E) ELISA"
+            ],
+            "answer": "B",
+            "explanation": "FISH, kromozomların hücreler arası farklılıklarını tespit edebilir ve mozaikliği belirlemede kullanılır."
+        },
+        {
+            "category": "5",
+            "question": "Kromozom preparasyonu yapılırken en yaygın kullanılan yayma tekniği nedir?",
+            "options": [
+                "A) Sürgü tekniği",
+                "B) Damlama tekniği",
+                "C) İnce kesit alma",
+                "D) Sentrifüjleme",
+                "E) Gazlama yöntemi"
+            ],
+            "answer": "B",
+            "explanation": "Damlama (drop) tekniği, kromozomların düzgün dağılmasını sağlar."
+        },
+        {
+            "category": "5",
+            "question": "Angelman Sendromu'nda hangi ebeveyn kaynaklı genetik bilgi eksiktir?",
+            "options": [
+                "A) Anne",
+                "B) Baba",
+                "C) Hem anne hem baba",
+                "D) Mitokondrial DNA",
+                "E) Kardeş kaynaklı DNA"
+            ],
+            "answer": "A",
+            "explanation": "Angelman Sendromu'nda anne kaynaklı genetik materyalin kaybı söz konusudur."
+        },
+        {
+            "category": "5",
+            "question": "Preparat yaşlandırmanın amacı nedir?",
+            "options": [
+                "A) Hücre çoğalmasını durdurmak",
+                "B) Kromozomları netleştirmek",
+                "C) Hücreleri boyamak",
+                "D) Antibiyotik etkisini artırmak",
+                "E) RNA yıkımını önlemek"
+            ],
+            "answer": "B",
+            "explanation": "Yaşlandırma işlemi kromozomların daha belirgin görünmesini sağlar."
+        },
+        {
+            "category": "5",
+            "question": "Edwards Sendromu hangi kromozomal değişiklikle ilişkilidir?",
+            "options": [
+                "A) Trizomi 21",
+                "B) Monozomi X",
+                "C) Trizomi 18",
+                "D) Trizomi 13",
+                "E) Karyotip 47,XXY"
+            ],
+            "answer": "C",
+            "explanation": "Edwards Sendromu, 18. kromozomun üç kopya bulunması (trizomi 18) ile ilişkilidir."
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Navbar.css';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
     const [isMenuActive, setMenuActive] = useState(false);
@@ -35,6 +36,11 @@ function Navbar() {
                     >
                         CV İndir
                     </a>
+                </li>
+                <li className="nav-item">
+                    <Link to="/quiz" className="nav-link" onClick={toggleMenu}>
+                        Sınav
+                    </Link>
                 </li>
             </ul>
         </nav>
