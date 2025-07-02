@@ -3,7 +3,6 @@ import './Quiz.css';
 import { FaCheckCircle, FaTimesCircle } from 'react-icons/fa';
 
 function shuffleArray(array) {
-    // Fisher-Yates algoritması ile karıştırma
     const arr = [...array];
     for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -25,7 +24,6 @@ const Quiz = () => {
             .then(res => res.json())
             .then(data => {
                 setQuestions(data.questions);
-                // Kategorileri benzersiz olarak al
                 const cats = Array.from(new Set(data.questions.map(q => q.category)));
                 setCategories(cats);
             });
@@ -38,7 +36,6 @@ const Quiz = () => {
         } else {
             filtered = questions.filter(q => q.category === selectedCategory);
         }
-        // 20 soruyu rastgele seç
         const selected = shuffleArray(filtered).slice(0, 20);
         setQuizQuestions(selected);
         setAnswers({});
@@ -58,7 +55,6 @@ const Quiz = () => {
         setShowResults(true);
     };
 
-    // Sonuç hesaplama
     const correctCount = quizQuestions.reduce((acc, q, idx) => {
         if (answers[idx] && answers[idx] === q.answer) return acc + 1;
         return acc;

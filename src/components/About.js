@@ -20,6 +20,11 @@ function About() {
                     <div className="education-section">
                         <h3>Eğitim</h3>
                         <div className="education-item">
+                            <h4>Balıkesir Üniversitesi Rektörlüğü Bilgi İşlem Ofisi</h4>
+                            <p className="education-degree">Staj</p>
+                            <p className="education-duration">(2025 - 2025)</p>
+                        </div>
+                        <div className="education-item">
                             <h4>Balıkesir Üniversitesi</h4>
                             <p className="education-degree">Bilgisayar Mühendisliği</p>
                             <p className="education-duration">(2023 - Devam Ediyor)</p>

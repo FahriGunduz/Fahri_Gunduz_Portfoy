@@ -55,6 +55,12 @@ const myPortfolioProjects = [
         description: 'Salamander-Software isminde bir yazılım şirketi kurmak istiyorum şuan fikir aşamasında.',
         imageUrl: '/images/logo.jpg',
     },
+    {
+        id: 8,
+        title: 'BaunKampüs Mobil Uygulaması',
+        description: 'Balıkesir Üniversitesi Bilgi İşlem Daire Başkanlığında staj yaptığım sırada diğer stajyer arkadaşla beraber yaptığımız mobil uygulama',
+        imageUrl: 'public/images/baun_kampus.png',
+    },
 ];
 
 function Projects() {
